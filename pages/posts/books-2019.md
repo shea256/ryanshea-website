@@ -8,17 +8,25 @@ author: You
 
 # Books I Read in 2019
 
-The Book of Why: The New Science of Cause and Effect
+### The Book of Why: The New Science of Cause and Effect
+
 by Jude’s Pearl
+
 My rating: ⭐⭐⭐⭐⭐
 
-Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
+### Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
+
 by Nassim Taleb
+
 My rating: ⭐⭐⭐⭐
 
-Shoe Dog: A Memoir by the Creator of Nike
-by Phil Knight
-My rating: ⭐⭐⭐⭐⭐
+<p>
+  Shoe Dog: A Memoir by the Creator of Nike
+  <br />
+  by Phil Knight
+  <br />
+  My rating: ⭐⭐⭐⭐⭐
+</p>
 
 The Way to Love
 by Anthony de Mello
