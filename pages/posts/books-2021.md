@@ -10,7 +10,42 @@ author: Ryan Shea
 
 ### Foundation's Edge
 
-Asimov, Isaac
+Isaac Asimov
+
+My rating: ⭐⭐⭐⭐
+
+### Project Hail Mary
+
+Andy Weir
 
 My rating: ⭐⭐⭐⭐⭐
 
+### Supernova in the East I-VI (Hardcore History, #62-67)
+
+Dan Carlin
+
+My rating: ⭐⭐⭐⭐⭐
+
+### Death Throes of the Republic (Hardcore History, #34-39)
+
+Dan Carlin
+
+My rating: ⭐⭐⭐⭐⭐
+
+### King of Kings (Hardcore History, #56-58)
+
+Dan Carlin
+
+My rating: ⭐⭐⭐⭐⭐
+
+### The Revolt of the Public and the Crisis of Authority
+
+Gurri, Martin
+
+My rating: ⭐⭐⭐⭐
+
+### Empire of Pain: The Secret History of the Sackler Dynasty
+
+Keefe, Patrick Radden
+
+My rating: ⭐⭐⭐⭐
