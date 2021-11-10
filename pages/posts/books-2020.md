@@ -3,7 +3,7 @@ title: Books I read in 2020
 date: 2021/01/01
 description: Here's a list of the books I read in 2020
 tag: reading
-author: You
+author: Ryan Shea
 ---
 
 # Books I Read in 2020
