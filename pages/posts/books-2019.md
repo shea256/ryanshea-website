@@ -3,7 +3,7 @@ title: Books I read in 2019
 date: 2020/01/01
 description: Here's a list of the books I read in 2019
 tag: reading
-author: You
+author: Ryan Shea
 ---
 
 # Books I Read in 2019
