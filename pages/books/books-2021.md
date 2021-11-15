@@ -2,7 +2,7 @@
 title: Books I read in 2021
 date: 2021/11/10
 description: Here's a list of the books I read in 2021
-tag: reading
+tag: books
 author: Ryan Shea
 ---
 
