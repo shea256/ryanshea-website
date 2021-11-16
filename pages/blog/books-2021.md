@@ -49,3 +49,15 @@ My rating: ⭐⭐⭐⭐
 Keefe, Patrick Radden
 
 My rating: ⭐⭐⭐⭐
+
+### The Paper Menagerie and Other Stories
+
+Ken Liu
+
+My rating: ⭐⭐⭐⭐
+
+### Exhalation
+
+Ted Chiang
+
+My rating: ⭐⭐⭐⭐
