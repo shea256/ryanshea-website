@@ -9,7 +9,7 @@ class MyDocument extends Document {
   render() {
     const meta = {
       title: "About Ryan Shea",
-      description: "Hey, my name is Ryan and I'm an entrepreneur and an angel investor. I co-founded Stacks, a top 100 cryptocurrency and one of the most popular platforms for blockchain apps, including MiamiCoin and NYCCoin.",
+      description: "Hey, my name is Ryan and I'm an entrepreneur and angel investor. I co-founded Stacks, a top 100 cryptocurrency and one of the top platforms for blockchain apps.",
       image: "https://www.shea.io/images/ryan-bike-sq.jpeg"
     }
 
