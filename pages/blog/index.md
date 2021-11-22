@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Blog
+title: Ryan Shea - Blog
 date: 2021-11-10
 ---
 
