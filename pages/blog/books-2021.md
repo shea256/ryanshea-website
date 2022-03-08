@@ -16,7 +16,7 @@ author: Ryan Shea
 | Supernova in the East I-VI (Hardcore History, #62-67) | Dan Carlin | ⭐⭐⭐⭐⭐ |
 | Death Throes of the Republic (Hardcore History, #34-39) | Dan Carlin | ⭐⭐⭐⭐⭐ |
 | King of Kings (Hardcore History, #56-58) | Dan Carlin | ⭐⭐⭐⭐⭐ |
-| The Revolt of the Public and the Crisis of Authority | Martin Gurri | ⭐⭐⭐⭐ |
-| Empire of Pain: The Secret History of the Sackler Dynasty | Patrick Radden Keefe | ⭐⭐⭐⭐ |
-| The Paper Menagerie and Other Stories | Ken Liu | ⭐⭐⭐⭐ |
-| Exhalation | Ted Chiang | ⭐⭐⭐⭐ |
+| The Revolt of the Public and the Crisis of Authority | Martin Gurri | ⭐⭐⭐ |
+| Empire of Pain: The Secret History of the Sackler Dynasty | Patrick Radden Keefe | ⭐⭐⭐ |
+| The Paper Menagerie and Other Stories | Ken Liu | ⭐⭐⭐ |
+| Exhalation | Ted Chiang | ⭐⭐⭐ |
