@@ -8,56 +8,15 @@ author: Ryan Shea
 
 # Books I Read in 2021
 
-### Foundation's Edge
 
-Isaac Asimov
-
-My rating: ⭐⭐⭐⭐
-
-### Project Hail Mary
-
-Andy Weir
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Supernova in the East I-VI (Hardcore History, #62-67)
-
-Dan Carlin
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Death Throes of the Republic (Hardcore History, #34-39)
-
-Dan Carlin
-
-My rating: ⭐⭐⭐⭐⭐
-
-### King of Kings (Hardcore History, #56-58)
-
-Dan Carlin
-
-My rating: ⭐⭐⭐⭐⭐
-
-### The Revolt of the Public and the Crisis of Authority
-
-Gurri, Martin
-
-My rating: ⭐⭐⭐⭐
-
-### Empire of Pain: The Secret History of the Sackler Dynasty
-
-Keefe, Patrick Radden
-
-My rating: ⭐⭐⭐⭐
-
-### The Paper Menagerie and Other Stories
-
-Ken Liu
-
-My rating: ⭐⭐⭐⭐
-
-### Exhalation
-
-Ted Chiang
-
-My rating: ⭐⭐⭐⭐
+| Title       | Author      | Rating      |
+| ----------- | ----------- | ----------- |
+| Foundation's Edge | Isaac Asimov | ⭐⭐⭐⭐ |
+| Project Hail Mary | Andy Weir | ⭐⭐⭐⭐⭐ |
+| Supernova in the East I-VI (Hardcore History, #62-67) | Dan Carlin | ⭐⭐⭐⭐⭐ |
+| Death Throes of the Republic (Hardcore History, #34-39) | Dan Carlin | ⭐⭐⭐⭐⭐ |
+| King of Kings (Hardcore History, #56-58) | Dan Carlin | ⭐⭐⭐⭐⭐ |
+| The Revolt of the Public and the Crisis of Authority | Martin Gurri | ⭐⭐⭐⭐ |
+| Empire of Pain: The Secret History of the Sackler Dynasty | Patrick Radden Keefe | ⭐⭐⭐⭐ |
+| The Paper Menagerie and Other Stories | Ken Liu | ⭐⭐⭐⭐ |
+| Exhalation | Ted Chiang | ⭐⭐⭐⭐ |
