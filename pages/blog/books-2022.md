@@ -8,14 +8,7 @@ author: Ryan Shea
 
 # Books I Read in 2021
 
-### The Way of the Superior Man
-
-by David Deida
-
-My rating: ⭐⭐⭐⭐⭐
-
-### On the Genealogy of Morals
-
-by Friedrich Nietzsche
-
-My rating: ⭐⭐⭐⭐
+| Title       | Author      |
+| ----------- | ----------- |
+| The Way of the Superior Man      | by David Deida                |
+| On the Genealogy of Morals       | by Friedrich Nietzsche        |
