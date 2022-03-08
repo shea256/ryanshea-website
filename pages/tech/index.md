@@ -1,7 +1,7 @@
 ---
 type: posts
-title: On Technology
+title: Tech
 date: 2022-03-08
 ---
 
-# On Technology
+# Tech
