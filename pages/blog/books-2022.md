@@ -6,9 +6,9 @@ tag: books
 author: Ryan Shea
 ---
 
-# Books I Read in 2021
+# Books I Read in 2022
 
-| Title       | Author      |
-| ----------- | ----------- |
-| The Way of the Superior Man      | by David Deida                |
-| On the Genealogy of Morals       | by Friedrich Nietzsche        |
+| Title       | Author      | Rating      |
+| ----------- | ----------- | ----------- |
+| The Way of the Superior Man      | David Deida                | ⭐⭐⭐⭐⭐             |
+| On the Genealogy of Morals       | Friedrich Nietzsche        | ⭐⭐⭐⭐               |
