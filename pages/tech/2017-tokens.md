@@ -1,6 +1,6 @@
 ---
 title: 3 Rules for Token Distribution & Economics
-date: 2015/10/05
+date: 2017/11/14
 description: 3 Rules for Token Distribution & Economics
 tag: tech
 author: Ryan Shea
