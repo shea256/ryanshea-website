@@ -10,5 +10,5 @@ author: Ryan Shea
 
 | Title       | Author      | Rating      |
 | ----------- | ----------- | ----------- |
-| The Way of the Superior Man      | David Deida                | ⭐⭐⭐⭐⭐             |
-| On the Genealogy of Morals       | Friedrich Nietzsche        | ⭐⭐⭐⭐               |
+| The Way of the Superior Man | David Deid | ⭐⭐⭐⭐⭐ |
+| On the Genealogy of Morals | Friedrich Nietzsche | ⭐⭐⭐ |
