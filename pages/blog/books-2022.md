@@ -12,3 +12,4 @@ author: Ryan Shea
 | ----------- | ----------- | ----------- |
 | The Way of the Superior Man | David Deid | ⭐⭐⭐⭐⭐ |
 | On the Genealogy of Morals | Friedrich Nietzsche | ⭐⭐⭐ |
+| Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐ |
