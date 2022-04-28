@@ -10,7 +10,8 @@ author: Ryan Shea
 
 | Title       | Author      | Rating      |
 | ----------- | ----------- | ----------- |
-| The Way of the Superior Man | David Deid | ⭐⭐⭐⭐⭐ |
+| The Way of the Superior Man (re-read) | David Deid | ⭐⭐⭐⭐⭐ |
+| The Power of Now (re-read) | Eckhart Tolle | ⭐⭐⭐⭐⭐ |
 | On the Genealogy of Morals | Friedrich Nietzsche | ⭐⭐⭐ |
 | First Principles | Thomas E. Ricks | ⭐⭐⭐ |
 | Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐ |
