@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Books
-date: 2021-11-10
+title: Blog
+date: 2022-03-08
 ---
 
-# Books
+# Blog
