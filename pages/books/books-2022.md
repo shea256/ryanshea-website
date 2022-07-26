@@ -8,13 +8,13 @@ author: Ryan Shea
 
 # Books I Read in 2022
 
-| Title       | Author      | Rating      |
-| ----------- | ----------- | ----------- |
-| The Way of the Superior Man (re-read) | David Deida | ⭐⭐⭐⭐⭐ |
-| The Power of Now (re-read) | Eckhart Tolle | ⭐⭐⭐⭐⭐ |
-| On the Genealogy of Morals | Friedrich Nietzsche | ⭐⭐⭐⭐ |
-| The Alchemist (re-read) | Paulo Coelho | ⭐⭐⭐⭐⭐ |
-| The Machiavellians | Paulo Coelho | ⭐⭐⭐⭐ |
-| First Principles | Thomas E. Ricks | ⭐⭐⭐⭐ |
-| Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐⭐ |
-| Dear Lover | David Deida | ⭐⭐⭐ |
+| Title       | Author      | Rating      |  Status      |
+| ----------- | ----------- | ----------- | ----------- |
+| The Way of the Superior Man | David Deida | ⭐⭐⭐⭐⭐ | Re-read |
+| The Power of Now | Eckhart Tolle | ⭐⭐⭐⭐⭐ | Re-read |
+| On the Genealogy of Morals | Friedrich Nietzsche | ⭐⭐⭐⭐ | Finished |
+| The Alchemist | Paulo Coelho | ⭐⭐⭐⭐⭐ | Re-read |
+| The Machiavellians | Paulo Coelho | ⭐⭐⭐⭐ | Finished |
+| First Principles | Thomas E. Ricks | ⭐⭐⭐⭐ | Reading |
+| Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐⭐ | Reading |
+| Dear Lover | David Deida | ⭐⭐⭐ | Reading |
