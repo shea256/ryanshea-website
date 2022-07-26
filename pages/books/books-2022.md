@@ -13,6 +13,7 @@ author: Ryan Shea
 | The Way of the Superior Man (re-read) | David Deida | ⭐⭐⭐⭐⭐ |
 | The Power of Now (re-read) | Eckhart Tolle | ⭐⭐⭐⭐⭐ |
 | On the Genealogy of Morals | Friedrich Nietzsche | ⭐⭐⭐⭐ |
+| The Alchemist (re-read) | Paulo Coelho | ⭐⭐⭐⭐⭐ |
+| The Machiavellians | Paulo Coelho | ⭐⭐⭐⭐ |
 | First Principles | Thomas E. Ricks | ⭐⭐⭐⭐ |
 | Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐⭐ |
-| The Alchemist (re-read) | Paulo Coelho | ⭐⭐⭐⭐⭐ |
