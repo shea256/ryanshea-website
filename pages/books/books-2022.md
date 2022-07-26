@@ -17,3 +17,4 @@ author: Ryan Shea
 | The Machiavellians | Paulo Coelho | ⭐⭐⭐⭐ |
 | First Principles | Thomas E. Ricks | ⭐⭐⭐⭐ |
 | Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐⭐ |
+| Dear Lover | David Deida | ⭐⭐⭐ |
