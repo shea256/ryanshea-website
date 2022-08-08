@@ -8,146 +8,28 @@ author: Ryan Shea
 
 # Books I Read in 2019
 
-### The Book of Why: The New Science of Cause and Effect
-
-by Jude’s Pearl
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
-
-by Nassim Taleb
-
-My rating: ⭐⭐⭐⭐
-
-### Shoe Dog: A Memoir by the Creator of Nike
-
-by Phil Knight
-
-My rating: ⭐⭐⭐⭐⭐
-
-### The Way to Love
-
-by Anthony de Mello
-
-My rating: ⭐⭐⭐⭐⭐
-
-### The Dark Forest
-
-by Liu Cixin
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Death’s End
-
-by Liu Cixin
-
-My rating: ⭐⭐⭐⭐⭐
-
-### AI Superpowers: China, Silicon Valley, and the New World Order
-
-by Kai-Fu Lee
-
-My rating: ⭐⭐⭐
-
-### Lee Kuan Yew: The Grand Master’s insights on China, the United States and the World
-
-by Lee Kuan Yew
-
-My rating: ⭐⭐⭐⭐
-
-### Being Mortal: Medicine and What Matters in the End
-
-by Atul Gawande
-
-My rating: ⭐⭐⭐⭐
-
-### The Beginning of Infinity: Explanations that Transform the World
-
-by David Deutsch
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Spiritual Enlightenment: The Damnedest Thing
-
-by Jed McKenna
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age
-
-Michael A. Hiltzik
-
-My rating; ⭐⭐⭐
-
-### Finite and Infinite Games
-
-by James P. Carse
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Predictably Irrational: The Hidden Forces That Shape Our Decisions
-
-by Dan Ariely
-
-My rating: ⭐⭐⭐⭐
-
-### The Doors of Perception
-
-by Aldous Huxley
-
-My rating: ⭐⭐⭐⭐
-
-### The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance
-
-by Timothy Gallwey
-
-My rating: ⭐⭐⭐⭐
-
-### The Cook and the Chef
-
-by Tim Urban
-
-My rating: ⭐⭐⭐
-
-### The Prince
-
-by Niccolò Machiavelli
-
-My rating: ⭐⭐⭐⭐
-
-### The Stranger
-
-by Albert Camus
-
-My rating: ⭐⭐⭐⭐⭐
-
-### On Liberty
-
-by John Stuart Mill
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Dune
-
-by Frank Herbert
-
-My rating: ⭐⭐⭐⭐
-
-### Altered Carbon
-
-by Richard K. Morgan
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Thinking in Systems
-
-by Donella H. Meadows
-
-My rating: ⭐⭐⭐⭐⭐
-
-### Slaughterhouse-Five
-
-by Kurt Vonnegut Jr.
-
-My rating: ⭐⭐⭐⭐⭐
+| Title       | Author      | Rating      |
+| ----------- | ----------- | ----------- |
+| The Book of Why | Judea Pearl | ⭐⭐⭐⭐⭐ |
+| Fooled by Randomness | Nassim Taleb | ⭐⭐⭐⭐ |
+| Shoe Dog | Phil Knight | ⭐⭐⭐⭐⭐ |
+| The Way to Love | Anthony de Mello | ⭐⭐⭐⭐⭐ |
+| The Dark Forest | Liu Cixin | ⭐⭐⭐⭐⭐ |
+| Death's End | Liu Cixin | ⭐⭐⭐⭐⭐ |
+| AI Superpowers | Kai-Fu Lee | ⭐⭐⭐ |
+| Lee Kuan Yew: The Grand Master’s Insights | Lee Kuan Yew | ⭐⭐⭐⭐ |
+| The Beginning of Infinity | David Deutsch | ⭐⭐⭐⭐⭐ |
+| Spiritual Enlightenment: The Damnedest Thing | Jed McKenna | ⭐⭐⭐⭐⭐ |
+| Dealers of Lightning | Michael Hiltzik | ⭐⭐⭐ |
+| Finite and Infinite Games | James Carse | ⭐⭐⭐⭐⭐ |
+| Predictably Irrational | Dan Ariely | ⭐⭐⭐⭐ |
+| The Doors of Perception | Aldous Huxley | ⭐⭐⭐⭐ |
+| The Inner Game of Tennis | Timothy Gallwey | ⭐⭐⭐⭐ |
+| The Cook and the Chef | Tim Urban | ⭐⭐⭐ |
+| The Prince | Niccolò Machiavelli | ⭐⭐⭐⭐ |
+| The Stranger | Albert Camus | ⭐⭐⭐⭐⭐ |
+| On Liberty | John Stuart Mill | ⭐⭐⭐⭐⭐ |
+| Dune | Frank Herbert | ⭐⭐⭐⭐⭐ |
+| Altered Carbon | Richard Morgan | ⭐⭐⭐⭐⭐ |
+| Thinking in Systems | Donella Meadows | ⭐⭐⭐⭐⭐ |
+| Slaughterhouse-Five | Kurt Vonnegut Jr. | ⭐⭐⭐⭐⭐ |
