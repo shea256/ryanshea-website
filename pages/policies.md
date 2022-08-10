@@ -22,8 +22,8 @@ date: 2022-03-08
 
 ### Focuses of Healthcare Research
 
-| #       | Item |
-| ----------- | -----------     | -----------     |
+| Number       | Item |
+| ----------- | -----------     |
 | 1. | Cancer |
 | 2. | Dementia |
 | 3. | Infectious Diseases |
