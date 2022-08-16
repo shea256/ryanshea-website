@@ -10,7 +10,7 @@ class MyDocument extends Document {
     const meta = {
       title: "Ryan Shea's Website",
       description: "Hey, my name is Ryan and I'm an entrepreneur and angel investor. I co-founded Stacks, a top 100 cryptocurrency that brings smart contracts to Bitcoin, and Citizenbase, an app that helps you preview your ballot before you vote.",
-      image: "https://www.shea.io/images/fire-and-ice.jpeg"
+      image: "https://www.shea.io/images/infinite-human-potential-1.jpeg"
     }
 
     return (
