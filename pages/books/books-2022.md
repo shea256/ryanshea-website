@@ -18,7 +18,7 @@ author: Ryan Shea
 | First Principles | Thomas E. Ricks | ⭐⭐⭐⭐ | Reading |
 | Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐⭐ | Reading |
 | Dear Lover | David Deida | | Reading |
-| Whole Earth Discipline | Stewart Brand | ⭐⭐⭐⭐ | Reading |
+| Whole Earth Discipline | Stewart Brand | ⭐⭐⭐⭐ | Finished |
 | We Are Legion (We Are Bob) | Dennis Taylor | | Reading |
 | Jurassic Park | Michael Crichton | | Reading |
 | I, Robot | Isaac Asimov | | Reading |
