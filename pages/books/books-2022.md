@@ -15,10 +15,11 @@ author: Ryan Shea
 | On the Genealogy of Morals | Friedrich Nietzsche | ⭐⭐⭐⭐ | Finished |
 | The Alchemist | Paulo Coelho | ⭐⭐⭐⭐⭐ | Re-read |
 | The Machiavellians | Paulo Coelho | ⭐⭐⭐⭐ | Finished |
-| First Principles | Thomas E. Ricks | ⭐⭐⭐⭐ | Reading |
-| Wild Swans: Three Daughters of China | Jung Chang | ⭐⭐⭐⭐ | Reading |
-| Dear Lover | David Deida | | Reading |
 | Whole Earth Discipline | Stewart Brand | ⭐⭐⭐⭐ | Finished |
+| First Principles | Thomas E. Ricks | | Reading |
+| Wild Swans: Three Daughters of China | Jung Chang | | Reading |
+| Dear Lover | David Deida | | Reading |
 | We Are Legion (We Are Bob) | Dennis Taylor | | Reading |
 | Jurassic Park | Michael Crichton | | Reading |
 | I, Robot | Isaac Asimov | | Reading |
+| Iron John | Robert Bly | | Reading |
